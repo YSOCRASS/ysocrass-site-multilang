@@ -3,4 +3,3 @@
     "about" => "about",
     "title" => "YSOCRASS - The Crap of Future",
 ];
-?>
