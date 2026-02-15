@@ -1,6 +1,6 @@
 <?php $lang(
     "comics" => "comics"
     "about" => "about"
-    "title" => "title"
+    "title" => "YSOCRASS - The Crap of Future"
 )
 ?>
