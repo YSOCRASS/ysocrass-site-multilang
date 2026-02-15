@@ -3,3 +3,4 @@
     'comics' => 'COMICS',
     'about' => 'ABOUT',
 ];
+?>
