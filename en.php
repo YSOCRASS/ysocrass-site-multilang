@@ -1,5 +1,7 @@
 <?php $lang = [
-    "comics" => "comics",
-    "about" => "about",
-    "title" => "YSOCRASS - The Crap of Future",
+    'title' => "YSOCRASS - The Crap of Future",
+
+    /*header*/
+    'comic' => 'COMICS',
+    'about' => 'ABOUT',
 ];
